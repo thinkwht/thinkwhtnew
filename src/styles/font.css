@@ -1,0 +1,35 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsMedium.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LatoBlack.ttf"); font-family : "Lato"; font-weight : 900;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LatoRegular.ttf"); font-family : "Lato"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsSemiBold.ttf"); font-family : "Poppins"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterExtraBold.ttf"); font-family : "Inter"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterBlack.ttf"); font-family : "Inter"; font-weight : 900;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterLight.ttf"); font-family : "Inter"; font-weight : 300;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansBold.ttf"); font-family : "Nunito Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansSemiBold.ttf"); font-family : "Nunito Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRomanBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRomanMedium.ttf"); font-family : "Montserrat"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansSemiBold.ttf"); font-family : "Open Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansItalic.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansRegular.ttf"); font-family : "DM Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterThin.ttf"); font-family : "Inter"; font-weight : 100;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/AsapRegular.ttf"); font-family : "Asap"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LoraRegular.ttf"); font-family : "Lora"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LoraBold.ttf"); font-family : "Lora"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ReadexProBold.ttf"); font-family : "Readex Pro"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsBlack.ttf"); font-family : "Poppins"; font-weight : 900;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/JuaRegular.ttf"); font-family : "Jua"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsExtraBold.ttf"); font-family : "Poppins"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PlusJakartaSansRomanRegular.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 400;  }
